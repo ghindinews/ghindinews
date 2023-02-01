@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for ghindinews	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="http://ghindinews.github.io/ghindinews/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ghindinews.github.io/ghindinews/</link>
 	<description></description>
 	<lastBuildDate>Wed, 01 Feb 2023 13:10:49 +0000</lastBuildDate>
 	<sy:updatePeriod>
