@@ -71,7 +71,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 /*  */</script>
 <script type="text/javascript" src="http://ghindinews.github.io/ghindinews/wp-includes/js/wp-util.min.js?ver=6.1.1" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">/*  */
-var userProfileL10n = {"user_id":"0","nonce":"500af080b8"};
+var userProfileL10n = {"user_id":"0","nonce":"86c70be7a5"};
 /*  */</script>
 <script type="text/javascript" src="http://ghindinews.github.io/ghindinews/wp-admin/js/user-profile.min.js?ver=6.1.1" id="user-profile-js"></script>
 	<div class="clear"></div>
