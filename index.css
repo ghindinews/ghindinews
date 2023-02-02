@@ -1,0 +1,26 @@
+<!-- set a 640:360 i.e a 16:9 - aspect ratio -->
+<img src="puppy.jpg" width="640" height="360" alt="Puppy with balloons" />
+img[Attributes Style] {
+  aspect-ratio: auto 640 / 360;
+}
+img {
+  height: auto;
+  width: 100%;
+}
+<img
+  width="1000"
+  height="1000"
+  src="puppy-1000.jpg"
+  srcset="puppy-1000.jpg 1000w, puppy-2000.jpg 2000w, puppy-3000.jpg 3000w"
+  alt="Puppy with balloons"
+/>
+<picture>
+  <source media="(max-width: 799px)" srcset="puppy-480w-cropped.jpg" />
+  <source media="(min-width: 800px)" srcset="puppy-800w.jpg" />
+  <img src="puppy-800w.jpg" alt="Puppy with balloons" />
+</picture>
+<picture>
+  <source media="(max-width: 799px)" srcset="puppy-480w-cropped.jpg" width=480 height=400/>
+  <source media="(min-width: 800px)" srcset="puppy-800w.jpg" width=800 height=400/>
+  <img src="puppy-800w.jpg" alt="Puppy with balloons" width=800 height=400/>
+</picture>
