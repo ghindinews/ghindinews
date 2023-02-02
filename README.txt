@@ -1,12 +1,12 @@
 === Plugin Name ===
 Contributors: leonstafford
-Donate link: https://leonstafford.github.io
+Donate link: https://ghindinews.github.io/ghindinews/
 Tags: wp2static,github,static
 Requires at least: 3.2
 Tested up to: 5.0.3
 Stable tag: 0.1
 License: Unlicense
-License URI: http://unlicense.org
+License URI: https://ghindinews.github.io/ghindinews/
 
 Adds AWS GitHub as a deployment option for WP2Static.
 
